@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 2C1B-F735
+
+ Directory of C:\git-desktop\hello-world
+
+11/10/2018  02:14 PM    <DIR>          .
+11/10/2018  02:14 PM    <DIR>          ..
+11/10/2018  02:09 PM             5,740 help.txt
+11/10/2018  01:44 PM                68 README.md
+11/10/2018  01:44 PM                26 test.txt
+11/10/2018  02:03 PM    <DIR>          test4.txt
+11/10/2018  02:14 PM                 0 text5.txt
+               4 File(s)          5,834 bytes
+               3 Dir(s)  64,063,606,784 bytes free
